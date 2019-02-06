@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="45px" height="65px" viewBox="0 0 45 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>phone_snap_evidence</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="0.4_Page2Rules" transform="translate(-355.000000, -189.000000)" fill-rule="nonzero">
+            <g id="CamPhoneSnapIcon" transform="translate(357.000000, 191.000000)">
+                <path d="M20.5441176,14.49 L37,14.49 C40.3137085,14.49 43,17.1762915 43,20.49 L43,57 C43,60.3137085 40.3137085,63 37,63 L20.5441176,63 C17.2304091,63 14.5441176,60.3137085 14.5441176,57 L14.5441176,20.49 C14.5441176,17.1762915 17.2304091,14.49 20.5441176,14.49 Z M20.2282353,18.27 C19.1844171,18.27 18.3382353,19.1161818 18.3382353,20.16 C18.3382353,21.2038182 19.1844171,22.05 20.2282353,22.05 L23.4041176,22.05 C24.4479358,22.05 25.2941176,21.2038182 25.2941176,20.16 C25.2941176,19.1161818 24.4479358,18.27 23.4041176,18.27 L20.2282353,18.27 Z" id="Combined-Shape" fill="#E16070"></path>
+                <polyline id="Path-12" stroke="#D1D1D1" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" points="25.0602327 12.6 27.1911765 6.93 20.8676471 10.08 14.5441176 -2.48689958e-13 12.6470588 11.97 7.03437308e-13 12.6 10.1176471 18.9 3.79411765 26.46 11.3823529 25.2"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
